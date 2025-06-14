@@ -1,5 +1,5 @@
 # 911-Calls-Data-Capstone-Project-
-This project performs an in-depth analysis of emergency 911 call data from Montgomery County, Pennsylvania. It aims to explore patterns in emergency call types, response trends over time, and visual insights using Python and popular data science libraries.
+This project performs an in-depth analysis of emergency 911 call data from Montgomery  County, Pennsylvania. It aims to explore patterns in emergency call types, response trends over time, and visual insights using Python and popular data science libraries.
 
 # Dataset
 Source: Kaggle - 911 Calls
